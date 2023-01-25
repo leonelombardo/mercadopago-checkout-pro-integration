@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 13 Pro Max, 256GB, Sierra Blue - Unlocked (Renewed Premium)",
+        "description": "The iPhone 13 Pro and iPhone 13 Pro Max are smartphones designed, developed, and marketed by Apple Inc. They are the flagship smartphones in the fifteenth generation of the iPhone, succeeding the iPhone 12 Pro and iPhone 12 Pro Max respectively. The devices were unveiled alongside the iPhone 13 and iPhone 13 Mini at an Apple Special Event at Apple Park in Cupertino, California on September 14, 2021, and became available ten days later, on September 13. They were discontinued on September 7, 2022, as well as the iPhone 11 and iPhone 12 mini, following the announcement of the iPhone 14 and iPhone 14 Pro.",
+        "price": 1101
+    },
+    {
+        "id": 2,
+        "title": "SAMSUNG Galaxy S22 Ultra Cell Phone, Factory Unlocked Android smartphone, 256GB, 8K Camera & Video, Brightest Display Screen, S Pen, Long Battery Life, Fast 4nm Processor, US Version, Phantom Black",
+        "description": "The Samsung Galaxy S22 is a series of Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its Galaxy S series. Unveiled at Samsung's Galaxy Unpacked event on 9 February 2022. They collectively serve as the successor to the Samsung Galaxy S21 series. The first three smartphones were unveiled at Samsung's Galaxy Unpacked event on 9 February 2022.",
+        "price": 994
+    },
+    {
+        "id": 3,
+        "title": "Apple iPhone 11 Pro, 256GB, Space Gray - Fully Unlocked (Renewed Premium)",
+        "description": "The iPhone 11 Pro and iPhone 11 Pro Max are smartphones designed, developed and marketed by Apple Inc. Serving as the Apple's flagship models of the 13th-generation of iPhones, they succeeded the iPhone XS and iPhone XS Max, respectively, upon their release. Apple CEO Tim Cook unveiled the devices alongside the standard model, the iPhone 11, on September 10, 2019 at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2019, and the phones went on sale on September 20. They were discontinued on October 13, 2020, following the announcement of iPhone 12 and iPhone 12 Pro.",
+        "price": 504
+    }
+]
