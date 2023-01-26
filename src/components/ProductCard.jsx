@@ -9,7 +9,7 @@ export const ProductCard = ({ product }) => {
     const { setCart } = useContext(Context)
     
     const addToCart = () => {
-        setCart(previous => [...previous, product])
+        setCart(previous => [...previous, {...product, quantity: 1 }])
         notification(`${product.title} added to cart.`)
     }
 
