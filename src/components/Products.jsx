@@ -9,7 +9,7 @@ export const Products = () => {
         <>
             {
                 products.length
-                    ? <div className="grid grid-cols-3 gap-4 max-w-[1000px] w-full">
+                    ? <div className="grid grid-cols-autofill gap-4 max-w-[1000px] w-full">
                         {
                             products.map(product => <ProductCard key={product.id} product={product}/>)
                         }
