@@ -10,7 +10,7 @@ export const createMercadoPagoCheckoutButton = (preferenceId) => {
             id: preferenceId
         },
         render: {
-            container: "#mercadopago-checkout-button",
+            container: ".cho-container",
             label: "Pay with MercadoPago"
         }
     })
